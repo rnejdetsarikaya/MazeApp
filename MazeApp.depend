@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593809084 source:c:\users\necoo\desktop\projeler\mazeapp\main.c
+	<stdio.h>
+	<stdlib.h>
+
